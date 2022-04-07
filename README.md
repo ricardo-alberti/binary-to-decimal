@@ -1,2 +1,2 @@
 # binary-to-decimal
-converts binary input to a decimal value
+converts binary input into a decimal value
